@@ -13,11 +13,11 @@ export default function GithubProfile() {
       repo: "https://github.com/TiasPal/TrendNest"
     },
     {
-      name: "Portfolio Site",
+      name: "Profile Site",
       description:
         "Interactive and aesthetic portfolio built with animations, theme toggles, and smooth transitions.",
       tech: ["React", "TailwindCSS", "Framer Motion"],
-      repo: "https://github.com/TiasPal/portfolio"
+      repo: "https://github.com/TiasPal/github-profile-site"
     }
   ];
 
